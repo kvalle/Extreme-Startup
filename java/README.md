@@ -1,0 +1,3 @@
+- Mac: ./run.sh
+	- Om du får permission issues: chmod u+x run.sh, og prøv igjen
+- Windows: run.bat
