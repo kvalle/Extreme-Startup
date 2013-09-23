@@ -28,7 +28,7 @@ class Web implements Container {
 	}
 
 	// Sends the answer as raw text to the client
-	private void answer(Response response, String answer) {// throws Exception {
+	private void answer(Response response, String answer) throws Exception {
 		System.out.println("A: " + answer);
 		PrintStream body = response.getPrintStream();
 		body.println("Hello");
