@@ -1,0 +1,15 @@
+{
+  "name": "extreme-startup",
+  "version": "1.0.0",
+  "description": "extreme-startup node.js server",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~3.4.0"
+  }
+}
